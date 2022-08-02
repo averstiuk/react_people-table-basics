@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/PeopleTable.scss"],"names":[],"mappings":"AAAA,aACE,wBACF","file":"main.3276461d.chunk.css","sourcesContent":[".PeopleTable {\n  border-collapse: collapse\n}\n"]}
